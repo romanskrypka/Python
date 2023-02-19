@@ -50,3 +50,19 @@ print(strings_length)
 
 s = sum(numbers)
 print(s)
+
+
+# АЛГОРИТМЫ
+# 
+#
+#
+#
+
+name1 = input("Введите имя: ")
+print(name1)
+name2 = "Roman"
+print(name1 == name2)
+
+
+
+
